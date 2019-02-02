@@ -9,7 +9,7 @@ import sys
 
 
 url = "https://rozetka.com.ua/mobile-phones/c80003/preset=smartfon/" # url from where parsing
-print(sys.argv[1])
+url = sys.argv[1]
 # checking if directory image exist or not
 if not os.access('./image', os.R_OK):
  os.mkdir('image')
