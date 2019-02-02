@@ -1,5 +1,6 @@
 # rozetka_parse
-Soft parse sailing items from website rozetka.com.ua
+Software parsing sailing items from website rozetka.com.ua
+
 url you can change in file parser.py
 
 Its will create 2 file xlsx file and rozetka.db file and directory /image/ with image files
